@@ -14,4 +14,4 @@ Python • C++ • JavaScript • React • OpenCV • YOLO • LLMs
 
 ## 📫 Connect
 Portfolio: http://derek-casini.github.io/Portfolio  
-LinkedIn: (www.linkedin.com/in/derek-casini-4090a2199)
+LinkedIn: www.linkedin.com/in/derek-casini-4090a2199
