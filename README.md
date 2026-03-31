@@ -1,16 +1,17 @@
-## Hi there 👋
+# Derek Casini 👋
+Computer Science Senior @ Oregon State University
 
-<!--
-**Derek-Casini/Derek-Casini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied AI systems and edge ML projects, focusing on computer vision,
+LLM-integrated applications, and real-world deployment.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Python • C++ • JavaScript • React • OpenCV • YOLO • LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Crash Detection System (YOLO + ODOT API)
+- Pool Game Analysis (Computer Vision + Optimization)
+- Exercise Tracker (MERN Stack)
+
+## 📫 Connect
+Portfolio: http://derek-casini.github.io/Portfolio  
+LinkedIn: (www.linkedin.com/in/derek-casini-4090a2199)
