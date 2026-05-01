@@ -11,6 +11,7 @@ Python • C++ • JavaScript • React • OpenCV • YOLO • LLMs
 - Crash Detection System (YOLO + ODOT API)
 - Pool Game Analysis (Computer Vision + Optimization)
 - Exercise Tracker (MERN Stack)
+- Mobile Treasure Hunt (Android App)
 
 ## 📫 Connect
 Portfolio: http://derek-casini.github.io/Portfolio  
