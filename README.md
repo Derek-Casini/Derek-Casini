@@ -1,5 +1,5 @@
 # Derek Casini 👋
-Computer Science Senior @ Oregon State University
+Computer Science Graduate from Oregon State University
 
 I build applied AI systems and edge ML projects, focusing on computer vision,
 LLM-integrated applications, and real-world deployment.
