@@ -8,9 +8,9 @@ LLM-integrated applications, and real-world deployment.
 Python • C++ • JavaScript • React • OpenCV • YOLO • LLMs
 
 ## 🚀 Featured Projects
-- Crash Detection System (YOLO + ODOT API)
-- Exercise Tracker (MERN Stack)
-- Mobile Treasure Hunt (Android App)
+- [Crash Detection System (YOLO + ODOT API)](https://github.com/StillwellJ/Count-How-Many/)
+- [Exercise Tracker (MERN Stack)](https://github.com/Derek-Casini/Full-Stack-MERN-Exercise-Tracker)
+- [Mobile Treasure Hunt (Android App)](https://github.com/Derek-Casini/Mobile-Treasure-Hunt)
 
 ## 📫 Connect
 Portfolio: http://derek-casini.github.io/Portfolio  
